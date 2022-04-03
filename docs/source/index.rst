@@ -1,4 +1,4 @@
-Benvenuto tra le pillole pratiche di Dynamics 365 Finance & Operations!
+Introduzione
 ===================================
 
 **Microsoft Dynamics 365 for Finance and Operations** è il sistema gestionale capace di unificare, supportare ed ottimizzare tutti i processi aziendali.
