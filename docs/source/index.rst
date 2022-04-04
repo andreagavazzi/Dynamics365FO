@@ -1,12 +1,13 @@
 Introduzione
 ===================================
 
-**Microsoft Dynamics 365 for Finance and Operations** è il sistema gestionale capace di unificare, supportare ed ottimizzare tutti i processi aziendali.
-L’integrazione con Office 365 permette di sfruttare appieno tutti gli strumenti di lavoro quotidiani (e-mail, fogli di calcolo, documenti di testo). Microsoft Dynamics 365 for Finance and Operations nasce nel cloud, gli utenti sono in grado di accedere da qualsiasi posizione e su qualsiasi dispositivo al sistema.
+Questa guida, interamente in italiano, è creata con lo scopo di supportare gli utenti che si avvicinano al gestionale **Dynamics 365 for Finance and Operations** di Microsoft.
+A seconda della versione in uso, ma anche delle modifiche adottate, le schermate qui presentate possono risultare differenti.
 
 .. note::
 
-   Questa documentazione è in continuo aggiornamento.
+Trattandosi di una guida a scopo illustrativo, è esclusa ogni responsabile per i danni di qualsiasi genere conseguenti all’utilizzo della stessa, compresi i danni diretti, indiretti, incidentali e consequenziali.
+
 
 Contents
 --------
