@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'D365FO Guida Utente'
+copyright = '2022, Andrea Gavazzi'
+author = 'Andrea Gavazzi'
 
 release = '0.1'
 version = '0.1.0'
