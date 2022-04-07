@@ -8,8 +8,7 @@ Uno scenario operativo potrebbe essere il seguente:
 - Partendo dalla vista “Tutti gli ordini clienti” posso impostare i filtri e le colonne su cui mi interessa lavorare e memorizzarli in una vista dedicata.  
 - Posso creare quante viste desidero (es. una per sede, una per categoria merceologica, ecc..).  
 
-.. Note::
-Una vista personalizzata può essere publicata ai colleghi che la troveranno immediatamente disponibile nel proprio menu. Solitamente il ruole di "publisher" viene assegnato ad una ristretta cerchia di utenti.
+.. Note:: Una vista personalizzata può essere publicata ai colleghi che la troveranno immediatamente disponibile nel proprio menu. Solitamente il ruole di "publisher" viene assegnato ad una ristretta cerchia di utenti.
 
 .. Caution:: Trattandosi di una guida a scopo illustrativo, è esclusa ogni responsabilità per danni di qualsiasi genere conseguenti all’utilizzo della stessa, compresi i danni diretti, indiretti, incidentali e consequenziali.
 
