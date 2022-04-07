@@ -1,14 +1,18 @@
 La personalizzazione delle viste
 ==================================
 
-La personalizzazione delle viste è una feature recente che permette di salvare la disposizione delle colonne e l’impostazione dei filtri in modo da richiamarli all’occorrenza. Un tipico caso può essere il seguente:
+La personalizzazione delle viste permette di salvare la disposizione delle colonne e l’impostazione dei filtri di ogni vista in modo da richiamarli all’occorrenza. 
+Uno scenario operativo potrebbe essere il seguente:
 
-- Mi serve spesso consultare un elenco di ordini ricambi non ancora fatturati ai clienti della sede di Leno.  
+- Mi serve spesso consultare un elenco di ordini relativi ad un certo gruppo prodotto non ancora fatturati ai clienti di una data sede.  
 - Partendo dalla vista “Tutti gli ordini clienti” posso impostare i filtri e le colonne su cui mi interessa lavorare e memorizzarli in una vista dedicata.  
-- Posso creare quante viste desidero (es. una per ordini macchine, una per ordini ricambi, ecc..).  
-- Posso inoltre pubblicare la vista creata ai miei colleghi di servizio, che la troveranno immediatamente disponibile nel proprio menu (senza bisogno di importarla).  
+- Posso creare quante viste desidero (es. una per sede, una per categoria merceologica, ecc..).  
+
+.. Note::
+Una vista personalizzata può essere publicata ai colleghi che la troveranno immediatamente disponibile nel proprio menu. Solitamente il ruole di "publisher" viene assegnato ad una ristretta cerchia di utenti.
 
 .. Caution:: Trattandosi di una guida a scopo illustrativo, è esclusa ogni responsabilità per danni di qualsiasi genere conseguenti all’utilizzo della stessa, compresi i danni diretti, indiretti, incidentali e consequenziali.
+
 
 
 Contents
