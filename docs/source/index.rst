@@ -16,6 +16,8 @@ Una vista personalizzata può essere publicata ai colleghi che la troveranno imm
 
 
 The GUI label should not run over ``line-height`` so as not to :guilabel:`interfere` with text from adjacent lines.
+For example, and ``menuselection`` can be seen here that breaks is too long to fit on this line.
+:menuselection:`My --> Software --> Some menu --> Some sub menu 1 --> sub menu 2`.
 
 Contents
 --------
