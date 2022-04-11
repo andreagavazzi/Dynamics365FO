@@ -22,6 +22,10 @@ Contents
 --------
 
 .. toctree::
+:maxdepth: 2
+:caption: Guida utente
+filtering
+save_view
 
-   usage
-   api
+
+
