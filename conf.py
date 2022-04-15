@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Unbounded Robotics UBR-1 Simulation Preview'
-copyright = u'2014, Unbounded Robotics Inc.'
+project = u'Dynamics 365 FO'
+copyright = u'Dynamics 365 FO'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -104,7 +104,7 @@ html_theme_path = ['_themes',]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Unbounded Robotics UBR-1 Simulation Preview"
+html_title = "Dynamics 365 FO"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -125,8 +125,8 @@ html_static_path = ['_static']
 
 html_context = {
   "display_github": True,
-  "github_user": "unboundedrobotics",
-  "github_repo": "ubr1_preview",
+  "github_user": "andreagavazzi",
+  "github_repo": "Dynamics365FO",
   "github_version": "documentation/",
   "conf_py_path": "",
   "source_suffix": source_suffix,
@@ -175,7 +175,7 @@ html_context = {
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'UnboundedRoboticsdoc'
+htmlhelp_basename = 'agRobotics'
 
 
 # -- Options for LaTeX output --------------------------------------------------
