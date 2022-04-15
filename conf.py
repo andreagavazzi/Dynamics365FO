@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Unbounded Robotics UBR-1 Simulation Preview'
-copyright = u'2014, Unbounded Robotics Inc.'
+project = u'Guida pratica a Dynamics 365 Finance & Operations'
+copyright = u'2022, Andrea Gavazzi'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -104,7 +104,7 @@ html_theme_path = ['_themes',]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Unbounded Robotics UBR-1 Simulation Preview"
+html_title = "Guida pratica a Dynamics 365 Finance & Operations"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -125,12 +125,12 @@ html_static_path = ['_static']
 
 html_context = {
   "display_github": True,
-  "github_user": "unboundedrobotics",
-  "github_repo": "ubr1_preview",
-  "github_version": "documentation/",
+  "github_user": "andreagavazzi",
+  "github_repo": "Dynamics365FO",
+  "github_version": "main/",
   "conf_py_path": "",
   "source_suffix": source_suffix,
-  "css_files": ['_static/theme_overrides.css']
+  # "css_files": ['_static/theme_overrides.css']
 }
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
