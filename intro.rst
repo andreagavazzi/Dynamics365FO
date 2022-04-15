@@ -1,7 +1,7 @@
-Preview Overview
+Introduzione
 ================
 
-Introduction
+Dynamcis 365 Finance & Operations
 ------------
 This documentation covers how to use the UBR-1 Simulator Preview. The simulator
 preview includes a simulated UBR-1 in Gazebo, as well as applications like
