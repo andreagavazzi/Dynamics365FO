@@ -11,7 +11,6 @@ This document covers how to use the UBR-1 Simulator Preview.
 
    intro
    overview
-   installation
 
 Tutorials
 ---------
