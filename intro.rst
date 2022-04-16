@@ -1,3 +1,5 @@
+.. figure:: images/common/MS-Dyn-365-Finance-and-Operations-Square-White-Logo-v2.png
+
 Introduzione
 ================
 
