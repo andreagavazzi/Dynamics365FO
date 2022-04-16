@@ -1,28 +1,21 @@
-Simulating the UBR-1
+Titolo 1
 ====================
 
-Unbounded Robotics has created a simulation environment for the UBR-1 built on
-the open source simulator `Gazebo <http://gazebosim.org>`_. This simulator
-allows you to test certain pieces of code even when you do not have access to
-a robot, or before running certain code on the actual robot.
+Blbla `Link <http://gazebosim.org>`_.
 
-It should be noted that this is a simulation, and is certainly not a perfect
-model of the world or the robot. Results between real world and simulation may
-vary wildly at times. Be sure to also note the limitations and differences
-of the simulated UBR-1 which are listed at the bottom of this page.
-
-Starting the Simulator
-----------------------
-
-To start the simulator, you will run one of several roslaunch files. Each roslaunch file
-brings up a different environment. The simplest environment is started by running:
+Blabla bla bla blablalbalbal
 
 ::
 
     >$ roslaunch ubr1_gazebo simulation.launch
 
-This environment includes nothing except a robot and the floor. In every environment,
-the robot will be initialized with the arm tucked and the head pointing forward:
+
+Titolo 2
+----------------------
+
+Blablablablabla
+blablabalblablasdgargaseg
+asegasgargawefkasklnskdfkkkkkkkskdfkskf
 
 .. figure:: images/gazebo-simulation-launch.png
    :width: 100%
