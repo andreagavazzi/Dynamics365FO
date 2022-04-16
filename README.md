@@ -1,6 +1,6 @@
 # Where to find the docs:
 
-http://unboundedrobotics.github.io/ubr1_preview
+https://dynamics365fo.readthedocs.io
 
 # How to generate the docs:
 
