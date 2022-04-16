@@ -63,7 +63,7 @@ should    be grouped    in pairs).``
 If the ``--pep-references`` option was supplied, there should be a live link to PEP 258 here.
 
 Math
-====
+----------------------
 
 This is a test. Here is an equation:
 :math:`X_{0:5} = (X_0, X_1, X_2, X_3, X_4)`.
@@ -82,7 +82,7 @@ Here is another:
 You can add a link to equations like the one above :eq:`This is a label` by using ``:eq:``.
 
 Meta
-====
+----------------------
 
 .. meta::
    :keywords: reStructuredText, demonstration, demo, parser
@@ -90,8 +90,7 @@ Meta
        markup language, containing examples of all basic
        constructs and many advanced constructs.
        
-Blocks
-======
+
 
 Literal Blocks
 --------------
@@ -209,7 +208,7 @@ Emphasized lines with line numbers
        print '...but this one is.'
 
 Sidebar
-=======
+----------------------
 
 .. sidebar:: Ch'ien / The Creative
 
@@ -244,8 +243,7 @@ Code with Sidebar
     :linenos:
     :lines: 1-40
 
-References
-==========
+
 
 Footnotes
 ---------
@@ -327,8 +325,7 @@ __ Targets_
 Here's a `hyperlink reference without a target`_, which generates an error.
 
 
-Directives
-==========
+
 
 Contents
 --------
@@ -481,6 +478,6 @@ This construct is called a *compound paragraph* and can be produced
 with the "compound" directive.
 
 Download Links
-==============
+----------------------
 
 :download:`This long long long long long long long long long long long long long long long download link should be blue, normal weight text with a leading icon, and should wrap white-spaces <static/yi_jing_01_chien.jpg>`
