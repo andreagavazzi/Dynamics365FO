@@ -15,6 +15,7 @@ Other
 .. toctree::
    :maxdepth: 2
 
+   author
    license
 
 
