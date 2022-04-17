@@ -15,6 +15,8 @@ L'autore
 
 Arricchiscono il suo CV le competenze maturate in ambito Business Intelligence con SSRS, ClickView, Tableau e PowerBI.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreagavazzi)
+.. |-><-| image:: images/common/linkedin.png
+.. _POEE: https://linkedin.com/in/andreagavazzi
+
 
 
