@@ -11,7 +11,7 @@ Il termine ERP, acronimo di Enterprise Resource Planning, si riferisce a un tipo
 
    L'ecosistema Dynamics 365
 
-Questa documentazione online vuole semplificare l'impatto con il sistema, fornendo un set di istruzioni operative organizzate per aree tematiche e facilmente accessibili dagli utenti.
+La **Guida pratica a Dynamics 365 Finance & Operations** vuole semplificare l'impatto con il sistema, fornendo un set di istruzioni operative organizzate per aree tematiche e facilmente accessibili dagli utenti.
 
 .. Caution:: Le procedure e gli screenshot allegati si riferiscono ad un'installazione standard Microsoft che può differire, anche profondamente, da quanto implementato nella propria organizzazione. 
 
