@@ -6,9 +6,7 @@ L'autore
 
     .. image:: images/common/me.jpg
 
-**Andrea Gavazzi** ha una decennale esperienza sulle soluzioni Microsoft implementate in aziende multinazionali e sui principali ERP leader di mercato. 
-
-Laureato in Economia e Commercio occupa la posizione di Head of Local IT in CLAAS Italia S.p.A. dove ha seguito importati progetti di implementazione.
+**Andrea Gavazzi** ha una decennale esperienza sulle soluzioni Microsoft implementate in aziende multinazionali e sui principali ERP leader di mercato. Laureato in Economia e Commercio occupa la posizione di Head of Local IT in CLAAS Italia S.p.A. dove ha seguito importati progetti di implementazione.
 
 * SAP R/3 e successivo upgrade a ECC 6.0 EHP 8
 * Sharepoint 2013 e successivo upgrade a 2016
