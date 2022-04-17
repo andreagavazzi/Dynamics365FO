@@ -5,6 +5,11 @@ Il termine ERP, acronimo di Enterprise Resource Planning, si riferisce a un tipo
 
 **Microsoft Dynamics 365 Finance & Operations** è l'ERP di Microsoft per le medie e grandi anziende. La soluzione, parte della gamma Dynamics 365, collega e integra i dati di contabilità, finanza, vendite, magazzino, clienti, ecc..
 
+.. figure:: images/common/D365_eco.png
+   :align: center
+
+   L'ecosistema Dynamics 365
+
 Questa documentazione online vuole semplificare l'impatto con il sistema, fornendo un set di istruzioni operative organizzate per aree tematiche e facilmente accessibili dagli utenti.
 
 .. Caution:: La presente guida d'uso e tutti gli screenshot allegati si riferiscono ad un'installazione standard Microsoft che può differire, anche profondamente, da quanto implementato nella propria organizzazione. Tutte le informazioni qui contentute hanno il solo scopo informativo e in nessun caso saremo responsabili per qualsiasi perdita o danno inclusi, senza limitazioni, perdite o danni indiretti o consequenziali, o qualsiasi perdita o danno derivante dalla perdita di dati o profitti derivanti da, o in connessione con, l'uso di questo sito.
