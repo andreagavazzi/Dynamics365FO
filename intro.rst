@@ -7,7 +7,7 @@ Il termine ERP, acronimo di Enterprise Resource Planning, si riferisce a un tipo
 
 .. figure:: images/common/Dynamics-365.png
    :align: center
-   :width: 70%
+   :width: 40%
 
    L'ecosistema Dynamics 365
 
