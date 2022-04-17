@@ -15,5 +15,5 @@ La **Guida pratica a Dynamics 365 Finance & Operations** vuole semplificare l'im
 
 .. Caution:: Le procedure e gli screenshot allegati si riferiscono ad un'installazione standard Microsoft che può differire, anche profondamente, da quanto implementato nella propria organizzazione. 
 
-.. Caution:: Tutte le informazioni qui contentute hanno il solo scopo informativo e in nessun caso saremo responsabili per qualsiasi danno diretto o indiretto (compresi i danni per la perdita di profitti o entrate, perdita o corruzione di dati, software o database).
+.. Caution:: Tutte le informazioni qui contentute hanno il solo scopo informativo e in nessun caso sarò responsabile per qualsiasi danno diretto o indiretto (compresi i danni per la perdita di profitti o entrate, perdita o corruzione di dati, software o database).
 
