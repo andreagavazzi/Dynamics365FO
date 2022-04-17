@@ -16,8 +16,8 @@ L'autore
 Arricchiscono il suo CV le competenze maturate in ambito Business Intelligence con SSRS, ClickView, Tableau e PowerBI.  
 
 .. figure:: images/common/linkedin.png
-   :scale: 50 %
-   :alt: https://linkedin.com/in/andreagavazzi
+   :scale: 30 %
+   :target: https://linkedin.com/in/andreagavazzi
 
 
 
