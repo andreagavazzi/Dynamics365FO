@@ -6,7 +6,7 @@ Primi passi
    :maxdepth: 2
 
    intro
-   interface
+   interfaccia
 
 Other
 -----
