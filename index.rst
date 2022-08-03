@@ -1,41 +1,27 @@
 
-Primi passi
----------------
+.. figure:: images/common/MS-Dyn-365-Finance-and-Operations-Square-White-Logo-v2.png
+
+*********************************************
+Microsoft Dynamics 365 Finance and Operation
+*********************************************
+
+La **Guida pratica a Dynamics 365 Finance & Operations** vuole semplificare l'impatto con il sistema, fornendo un set di istruzioni operative organizzate per aree tematiche e facilmente accessibili agli utenti.
+
+.. Caution:: Le procedure e gli screenshot allegati sono aggiornati al momento della compilazione e possono differire a causa di nuovi rilasci o modifiche del software.
+Le informazioni qui contentute hanno il solo scopo informativo e in nessun caso sarò responsabile per qualsiasi danno diretto o indiretto (compresi i danni per la perdita di profitti o entrate, perdita o corruzione di dati, software o database).
+
+Indice
+=======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :titlesonly:
 
-   intro
+   Introduzione <self>
+   primo_accesso
    interfaccia
-
-
-Scanner Ricambi
----------------
-
-.. toctree::
-   :maxdepth: 2
-
-   introduzione
-   login
-   homepage
-   locate item
-   register item image
-   unplanned move
-   register barcode
-   location content
-   receive
-   pick
-   unplanned count
-
-
-Conclusioni
------
-
-.. toctree::
-   :maxdepth: 2
-
    author
-   license
+
 
 
 .. Indices and tables
