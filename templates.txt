@@ -1,1 +1,34 @@
+Immagine
 
+.. figure:: images/common/Dynamics-365.png
+   :align: center
+   :width: 50%
+   
+   
+ Riquadro di attenzione
+ 
+ .. Caution:: Le procedure e gli screenshot allegati si riferiscono ad un'installazione standard Microsoft che può differire, anche profondamente, da quanto implementato nella propria azienda. 
+
+
+Riquadro suggerimento
+
+.. Hint:: Benchè Dynamics 365 Finance and Operation funzioni sui principali browser, raccomando l'utilizzo di Microsoft Edge
+
+
+Immagine semplice (es da snagit)
+
+.. figure:: images/interface/main.png
+
+
+Immagine con link
+
+.. figure:: images/common/linkedin.png
+   :scale: 30 %
+   :target: https://linkedin.com/in/andreagavazzi
+   
+   
+ Immagine a lato sx con testo a dx
+ 
+ .. sidebar:: Andrea Gavazzi
+
+    .. image:: images/common/me.jpg
