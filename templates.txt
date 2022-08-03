@@ -47,3 +47,11 @@ Immagine con link
     :glob:
 
     backends/*
+    
+    
+ nota generica
+ 
+ .. note::
+
+    Make sure you have enabled virtualization in your BIOS.
+    Docker will complain if not.
