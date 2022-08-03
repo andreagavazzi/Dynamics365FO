@@ -32,3 +32,18 @@ Immagine con link
  .. sidebar:: Andrea Gavazzi
 
     .. image:: images/common/me.jpg
+    
+    
+ Link
+ 
+ .. _Docker: https://www.docker.com/
+ 
+ 
+ Indice (esempio di indice a metà documentazione)
+ 
+ .. toctree::
+    :maxdepth: 2
+    :titlesonly:
+    :glob:
+
+    backends/*
